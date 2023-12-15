@@ -7,9 +7,15 @@
  `--npm install package.json` This should install all the necessary dependancies required to run this application 
  
 ## Usage 
- After installing the package.json please run `node index.js` in the command console and follow the prompts. 
+ After installing the package.json please run `node index.js` in the command console and follow the prompts.
+![Opening CMD](img\Begin.png)
+
+![Choices in CMD](img\After.png)
+
  
 ## License 
+
+MIT Lincese can be viewed in repo
  
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
