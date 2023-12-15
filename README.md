@@ -8,10 +8,6 @@
  
 ## Usage 
  After installing the package.json please run `node index.js` in the command console and follow the prompts.
-![Opening CMD](img\Begin.png)
-
-![Choices in CMD](img\After.png)
-
  
 ## License 
 
